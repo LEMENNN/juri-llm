@@ -49,7 +49,7 @@ question ─► bge-m3 (vecteur) ─► Chroma : 5 extraits les plus proches (2 
 - Pas d'évaluation chiffrée : 10 questions de test vérifiées à la main.
 
 ## Lancer le projet
-Prérequis : Python [3.13.11]], [Ollama](https://ollama.com).
+Prérequis : Python [3.13.11], [Ollama](https://ollama.com).
 ```powershell
 ollama pull bge-m3
 ollama pull qwen3:8b
