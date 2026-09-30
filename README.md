@@ -6,6 +6,13 @@ en langage simple, avec ses sources. 100 % local : aucune question ne quitte la 
 
 > Projet de portfolio. Ceci n'est pas un conseil juridique.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/50c05987-7173-4ad1-9d12-c8965c4ba8a2
+
+
 
 ## Comment ça marche
 ```
